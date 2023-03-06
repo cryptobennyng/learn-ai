@@ -32,4 +32,9 @@ npm run dev
         },
 ```
 
+Reference
 https://github.com/f/awesome-chatgpt-prompts#act-as-character-from-moviebookanything
+
+# Deployed demo
+
+https://openai-her.vercel.app/
